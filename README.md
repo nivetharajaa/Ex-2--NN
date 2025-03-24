@@ -1,4 +1,4 @@
-<H3>Name:NIVETHA A</H3>
+<H3>Name: NIVETHA A</H3>
 <H3>Register no.212222230101</H3>
 <H3>Date:</H3>
 <H3>Experiment No. 2 </H3>
